@@ -12,7 +12,7 @@ const firebaseConfig = {
   authDomain: "twitter-clone-da2bc.firebaseapp.com",
   projectId: "twitter-clone-da2bc",
   storageBucket: "twitter-clone-da2bc.appspot.com",
-  messagingSenderId: 791352853333,
+  messagingSenderId: "791352853333",
   appId: "1:791352853333:web:d8b6c1436f3b3c2c5ce5dc",
 };
 
